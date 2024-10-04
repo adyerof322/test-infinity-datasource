@@ -1,0 +1,10 @@
+{
+    "kind": "test",
+    "author": "Yerofeyev Aleksandr",
+    "branch": "test",
+    "version": "0.0.1-rc",
+    "layer": "products/bsp/microservices",
+    "team": "apiration",
+    "project": "ivr-reprice",
+    "directory": "build"
+}
